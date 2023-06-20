@@ -1,0 +1,6 @@
+﻿  MyPluginManager.cpp
+  main.cpp
+  mainwindow.cpp
+  moc_MyPluginManager.cpp
+  moc_mainwindow.cpp
+  MainApp.vcxproj -> E:\MyProject\Qt_Project\MyPluginProject\MainApp\debug\MainApp.exe

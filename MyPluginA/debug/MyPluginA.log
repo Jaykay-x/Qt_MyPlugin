@@ -1,0 +1,4 @@
+﻿  myplugina.cpp
+  moc_myplugina.cpp
+    正在创建库 debug\\MyPluginA.lib 和对象 debug\\MyPluginA.exp
+  MyPluginA.vcxproj -> E:\MyProject\Qt_Project\MyPluginProject\MyPluginA\debug\MyPluginA.dll
